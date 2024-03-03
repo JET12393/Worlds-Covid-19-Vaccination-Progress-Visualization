@@ -1,1 +1,1 @@
-# World-s-Covid-19-Vaccination-Progress-Visualization
+This visualization is done via Tableau
